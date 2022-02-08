@@ -9,7 +9,7 @@ let bcn = {
 };
 let peter = "Peter";
 let londres = {
-  nom: "Londres",
+  nom: "Londresss",
   fa: " a Londres plou",
   temp: 7,
 };
